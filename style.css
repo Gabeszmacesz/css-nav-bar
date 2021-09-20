@@ -1,0 +1,66 @@
+
+body {
+    background-image: url(https://tipsmake.com/data/images/100-most-beautiful-background-picture-14-oY2wQsrzD.jpg);
+    background-attachment: fixed;
+}
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+
+
+div {
+    background-color: black;
+    padding: 30px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+
+.btn {
+    color: grey;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    user-select: none;
+}
+
+.btn-home {
+    color: white;
+}
+    
+
+ .btn:hover {
+     color: white;
+ }   
+
+input {
+   border: none;
+   height: 40px;
+}
+
+.btn-navbar {
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
